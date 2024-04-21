@@ -1,6 +1,6 @@
 # 2023 House Calendar
 
-Inspired by the house calendar hanging in front of me as I work on my laptop, I decided to recreate it using HTML and CSS.
+Inspired by the house calendar hanging in front of me as I work on my laptop, I decided to recreate it using HTML and CSS only.
 
 
 
